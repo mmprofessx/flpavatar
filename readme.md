@@ -1,5 +1,3 @@
-[![Xekko](http://xekko.co.uk/public/images/logo_xekko_color.png "Xekko Resources")](http://resources.xekko.co.uk "Xekko Resources")
-
 ## First / Last Post Avatar
 This plugin allows you to generate avatar information for the first and/or last post for use on your forum's home page (index), forum display (forumdisplay), private messages (including tracking), search results and thread page (showthread).
 
